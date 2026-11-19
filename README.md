@@ -1,5 +1,19 @@
 # aiRPD
 
+Local-first research paper discovery tool that searches open sources and filters papers for relevance with Ollama Qwen3:8B.
+
+![demo](docs/demo.gif)
+
+```bash
+git clone https://github.com/shanthoshkv/aiRPD
+```
+
+This repository is documentation only: the clone contains the project write-up below, no source code.
+
+**Live demo:** https://aboutkvs.vercel.app/airpd.html
+
+---
+
 ### AI-Powered Research Paper Downloader and Relevance Filter
 
 **aiRPD** is a local-first research paper discovery and filtering tool designed to automate one of the most tedious parts of technical research: finding the papers that are actually relevant to a specific research question.
@@ -877,4 +891,4 @@ Interested in aerospace engineering, propulsion, turbomachinery, CFD, computatio
 
 ## License
 
-© 2026 Shanthosh K V. All rights reserved.
+MIT. See [LICENSE](LICENSE).
